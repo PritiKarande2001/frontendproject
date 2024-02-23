@@ -1,0 +1,947 @@
+ 
+/* 1st Page*/
+
+  .main
+ 		{
+          height: 700px;
+          width: 500%;
+         display: flex;
+         flex-direction: reverse;
+
+ 		}
+ 
+ 		.box
+ 		{
+          height: 700px;
+          width: 1000px;
+          float: left;
+          background-color:#c2d6d6;
+          margin: 30px;
+ 		}
+ 
+ 		.box2
+ 		{
+          height: 700px;
+          width: 1000px;
+          float: right;
+          background-color: #c2d6d6;
+          margin: 30px;
+      }
+ 		.box3
+ 		{
+          height: 700px;
+          width: 1000px;
+          float: left;
+          background-color:#c2d6d6;
+          margin: 30px;
+
+ 		}
+ 		.box4
+ 		{
+          height: 700px;
+          width: 1000px;
+          float: left;
+          background-color: #c2d6d6;
+          margin: 30px;
+          margin-left: 150px;
+
+ 		}
+ 		.box5
+ 		{
+          height: 700px;
+          width: 1000px;
+          float: left;
+          background-color: #c2d6d6;
+          margin: 30px;
+
+ 		}
+
+       
+        .main2
+        {
+          height: 800px;
+          width: 500%;
+         display: flex;
+         flex-direction: reverse;
+   }
+
+ 		.box6
+ 		{
+          height: 700px;
+          width: 1000px;
+          float: left;
+          background-color: #c2d6d6;
+          margin: 30px;
+          margin-top: 80px;
+ 		}
+ 		.box7
+ 		{
+          height: 700px;
+          width: 1000px;
+          float: left;
+          background-color: #c2d6d6;
+          margin: 30px;
+          margin-top: 80px;
+          
+ 		}
+ 		.box8
+ 		{
+          height: 700px;
+          width: 1000px;
+          float: left;
+          background-color: #c2d6d6;
+          margin: 30px;
+          margin-top: 80px;
+          
+ 		}
+ 		.box9
+ 		{
+          height: 700px;
+          width: 1000px;
+          float: left;
+          background-color: #c2d6d6;
+          margin: 30px;
+          margin-top: 80px;
+          margin-left: 150px;
+          
+ 		}
+ 		.box10
+ 		{
+          height: 700px;
+          width: 1000px;
+          float: left;
+          background-color: #c2d6d6;
+          margin: 30px;
+          margin-top: 80px;
+          
+ 		}
+        
+
+        .vertical
+    {
+        list-style-type: none;
+        height: 100%;
+        width: 18%;
+        float: left;
+        background-color: #E7F4FB;
+        font-family: cailibry;
+        border: 1px solid black;
+         z-index: 9999;
+        
+    } 
+    .vertical li
+    {
+       
+       padding: 8px;
+       margin-left: 30px;
+   }
+
+    .vertical li i
+    {
+    
+/*     font-size: 20px;*/
+     padding: 10px;
+     margin-left: -70px;
+
+    }
+    .vertical li:hover
+    {
+/*        background-color: gray;*/
+/*        border-radius: 20px;*/
+        color: blue;
+        width: 100%;
+
+    }
+
+    .info
+    {  
+        width: 82%;
+        height: 50px;
+        background-color: #c2d6d6;
+        float: right;
+    }
+     .info i
+     {
+        float: right;
+        font-size: 27px;
+        margin: 15px;
+        margin-top: 10px;
+     }
+
+     .total
+     {
+       height: 200px;
+       width: 82%;
+       float: left;
+       margin-top: 10px;
+     }
+
+     .revenue
+     {
+        height: 200px;
+        width: 30%;
+        margin-left: 5px;
+        border-radius: 10%;
+        border: 1px solid black;
+        background-color: #E7F4FB;
+     }
+     .user
+     {
+        height: 200px;
+        width: 30%;
+        float: left;
+        margin-left: 35%;
+        margin-top: -24.3%;
+        border-radius: 10%;
+        border: 1px solid black;
+        background-color: #E7F4FB;
+
+     }
+     .order
+     {
+         height: 200px;
+        width: 30%;
+        float: right;
+        margin-left: 30%;
+        margin-right: 10px;
+        margin-top: -24.3%;
+        border-radius: 10%;
+        border: 1px solid black;
+        background-color: #E7F4FB;
+
+     }
+
+
+     .conversation
+     {
+       height: 200px;
+       width: 82%;
+       float: left;
+       margin-top: 10px; 
+     }
+     .img
+     {
+       width: 48%;
+       height: 100%;
+       border-radius: 10%; 
+       border: 1px solid black;
+       margin-left: 10px; 
+        background-color: #E7F4FB;
+
+     }
+     .list
+     {
+        width: 48%;
+       height: 100%;
+       float: right;
+       border-radius: 10%; 
+       margin-top: -24.3%;
+       margin-left: 10px;
+       margin-right: 10px;
+       border: 1px solid black;
+      background-color:  #E7F4FB;
+
+     }
+
+
+     .activity
+     {
+       height: 200px;
+       width: 82%;
+       float: left;
+       margin-top: 10px;
+     }
+      .image
+     {
+        width: 70%;
+       height: 100%;
+       float: left;
+       border-radius: 10%; 
+       margin-left: 10px;
+       margin-right: 10px;
+     }
+
+/* 2nd Page */
+     .vertical2
+    {
+        list-style-type: none;
+        height: 100%;
+        width: 18%;
+        float: left;
+        background-color: #E7F4FB;
+        font-family: cailibry;
+        border: 1px solid black;
+         z-index: 9999;
+        
+    } 
+    .vertical2 li
+    {
+       
+       padding: 8px;
+       margin-left: 30px;
+   }
+
+    .vertical2 li i
+    {
+    
+/*     font-size: 20px;*/
+     padding: 10px;
+     margin-left: -70px;
+
+    }
+    .vertical2 li:hover
+    {
+/*        background-color: gray;*/
+/*        border-radius: 20px;*/
+        color: blue;
+        width: 100%;
+    }
+
+    .info2
+    {  
+        width: 82%;
+        height: 50px;
+        background-color: #c2d6d6;
+        float: right;
+    }
+     .info2 i
+     {
+        float: right;
+        font-size: 27px;
+        margin: 15px;
+        margin-top: 10px;
+     }
+     .horizontal li
+     {
+        display: inline;
+        list-style-type: none;
+        margin-left: 25px;
+        font-size: 20px;
+    
+     }
+     .horizontal li:hover 
+     {
+        color: blue;
+        text-decoration: underline;
+     }
+
+    
+     .members table i
+     {
+        color: blue;
+        margin-left: 10px;
+     }
+
+
+/* 3rd Page */
+     
+.vertical3
+    {
+        list-style-type: none;
+        height: 100%;
+        width: 18%;
+        float: left;
+        background-color: #E7F4FB;
+        font-family: cailibry;
+        border: 1px solid black;
+         z-index: 9999;
+        
+    } 
+    .vertical3 li
+    {
+       
+       padding: 8px;
+       margin-left: 30px;
+   }
+
+    .vertical3 li i
+    {
+    
+/*     font-size: 20px;*/
+     padding: 10px;
+     margin-left: -70px;
+
+    }
+    .vertical3 li:hover
+    {
+/*        background-color: gray;*/
+/*        border-radius: 20px;*/
+        color: blue;
+        width: 100%;
+    }
+
+    .info3
+    {  
+        width: 82%;
+        height: 50px;
+        background-color: #c2d6d6;
+        float: right;
+    }
+     .info3 i
+     {
+        float: right;
+        font-size: 27px;
+        margin: 15px;
+        margin-top: 10px;
+     }
+
+     .totalorders
+     {
+     	 width:80%;
+     	 background-color:  #E7F4FB;
+     	  height: 300px;float: left;
+     	   margin-left: 5px;
+     	   margin-right: 2px; 
+     	 border-radius: 10px;"*/
+     }
+      .totalorders li
+     {
+        display: inline;
+        list-style-type: none;
+        margin-left: 25px;
+        font-size: 20px;
+    
+     }
+     .totalorders li:hover 
+     {
+        color: blue;
+        text-decoration: underline;
+     }
+
+    
+/*4th Page: */
+.vertical4
+    {
+        list-style-type: none;
+        height: 100%;
+        width: 18%;
+        float: left;
+        background-color: #E7F4FB;
+        font-family: cailibry;
+        border: 1px solid black;
+         z-index: 9999;
+        
+    } 
+    .vertical4 li
+    {
+       
+       padding: 8px;
+       margin-left: 30px;
+   }
+
+    .vertical4 li i
+    {
+    
+/*     font-size: 20px;*/
+     padding: 10px;
+     margin-left: -70px;
+
+    }
+    .vertical4 li:hover
+    {
+/*        background-color: gray;*/
+/*        border-radius: 20px;*/
+        color: blue;
+        width: 100%;
+    }
+
+    .info4
+    {  
+        width: 82%;
+        height: 50px;
+        background-color: #c2d6d6;
+        float: right;
+    }
+     .info4 i
+     {
+        float: right;
+        font-size: 27px;
+        margin: 15px;
+        margin-top: 10px;
+     }
+
+     .totalorders2
+     {
+     	 width:80%;
+     	 background-color:  #E7F4FB;
+     	  height: 300px;float: left;
+     	   margin-left: 5px;
+     	   margin-right: 2px; 
+     	 border-radius: 10px;"*/
+     }
+      .totalorders2 li
+     {
+        display: inline;
+        list-style-type: none;
+        margin-left: 10px;
+        font-size: 18px;
+    
+     }
+     .totalorders2 li:hover 
+     {
+        color: blue;
+        text-decoration: underline;
+     }
+
+
+     /* 5th Page */
+     
+.vertical5
+    {
+        list-style-type: none;
+        height: 100%;
+        width: 18%;
+        float: left;
+        background-color: #E7F4FB;
+        font-family: cailibry;
+        border: 1px solid black;
+         z-index: 9999;
+        
+    } 
+    .vertical5 li
+    {
+       
+       padding: 8px;
+       margin-left: 30px;
+   }
+
+    .vertical5 li i
+    {
+    
+/*     font-size: 20px;*/
+     padding: 10px;
+     margin-left: -70px;
+
+    }
+    .vertical5 li:hover
+    {
+/*        background-color: gray;*/
+/*        border-radius: 20px;*/
+        color: blue;
+        width: 100%;
+    }
+
+    .info5
+    {  
+        width: 82%;
+        height: 50px;
+        background-color: #c2d6d6;
+        float: right;
+    }
+     .info5 i
+     {
+        float: right;
+        font-size: 27px;
+        margin: 15px;
+        margin-top: 10px;
+     }
+
+     .totalorders3
+     {
+     	 width:80%;
+     	 background-color:  #E7F4FB;
+     	  height: 300px;float: left;
+     	   margin-left: 5px;
+     	   margin-right: 2px; 
+     	 border-radius: 10px;"*/
+     }
+      .totalorders3 li
+     {
+        display: inline;
+        list-style-type: none;
+        margin-left: 25px;
+        font-size: 20px;
+    
+     }
+     .totalorders3 li:hover 
+     {
+        color: blue;
+        text-decoration: underline;
+     }
+
+
+/*   6th Page: */
+      .vertical6
+    {
+        list-style-type: none;
+        height: 100%;
+        width: 18%;
+        float: left;
+        background-color: #E7F4FB;
+        font-family: cailibry;
+        border: 1px solid black;
+         z-index: 9999;
+        
+    } 
+    .vertical6 li
+    {
+       
+       padding: 8px;
+       margin-left: 30px;
+   }
+
+    .vertical6 li i
+    {
+    
+/*     font-size: 20px;*/
+     padding: 10px;
+     margin-left: -70px;
+
+    }
+    .vertical6 li:hover
+    {
+/*        background-color: gray;*/
+/*        border-radius: 20px;*/
+        color: blue;
+        width: 100%;
+    }
+
+    .info6
+    {  
+        width: 82%;
+        height: 50px;
+        background-color: #c2d6d6;
+        float: right;
+    }
+     .info6 i
+     {
+        float: right;
+        font-size: 27px;
+        margin: 15px;
+        margin-top: 10px;
+     }
+     .tickets
+     {
+     	height: 92.5% ;
+     	width: 82%;
+        float: left;
+     }
+     .alltickets
+     {
+     	height: 100%;
+     	width: 30%;
+        float: left;
+     }
+     .support
+     {
+     	height: 40%;
+     	width: 67%;
+     	background-color: #E7F4FB;
+     	float: left;
+     	border-radius: 20px;
+     	margin-left: 10px;
+     	margin-top:30px;
+     }
+
+     .raiseticket
+     {
+     	height: 40%;
+     	width: 67%;
+     	background-color: #E7F4FB;
+     	float: left;
+     	margin-left: 10px;
+     	border-radius: 20px;
+     	margin-top: 8px;
+     }
+
+
+
+
+
+/* 7th Page :  */
+     .vertical7
+    {
+        list-style-type: none;
+        height: 100%;
+        width: 18%;
+        float: left;
+        background-color: #E7F4FB;
+        font-family: cailibry;
+        border: 1px solid black;
+         z-index: 9999;
+        
+    } 
+    .vertical7 li
+    {
+       
+       padding: 8px;
+       margin-left: 30px;
+   }
+
+    .vertical7 li i
+    {
+    
+/*     font-size: 20px;*/
+     padding: 10px;
+     margin-left: -70px;
+
+    }
+    .vertical7 li:hover
+    {
+/*        background-color: gray;*/
+/*        border-radius: 20px;*/
+        color: blue;
+        width: 100%;
+    }
+
+    .info7
+    {  
+        width: 82%;
+        height: 50px;
+        background-color: #c2d6d6;
+        float: right;
+    }
+     .info7 i
+     {
+        float: right;
+        font-size: 27px;
+        margin: 15px;
+        margin-top: 10px;
+     }
+       .bill li
+      {
+      	 margin-left: 15px;
+      	 list-style-type: none;
+      	  display: inline-block
+      }
+
+
+      /* 8th Page */
+     
+.vertical8
+    {
+        list-style-type: none;
+        height: 100%;
+        width: 18%;
+        float: left;
+        background-color: #E7F4FB;
+        font-family: cailibry;
+        border: 1px solid black;
+         z-index: 9999;
+        
+    } 
+    .vertical8 li
+    {
+       
+       padding: 8px;
+       margin-left: 30px;
+   }
+
+    .vertical8 li i
+    {
+    
+/*     font-size: 20px;*/
+     padding: 10px;
+     margin-left: -70px;
+
+    }
+    .vertical8 li:hover
+    {
+/*        background-color: gray;*/
+/*        border-radius: 20px;*/
+        color: blue;
+        width: 100%;
+    }
+
+    .info8
+    {  
+        width: 82%;
+        height: 50px;
+        background-color: #c2d6d6;
+        float: right;
+    }
+     .info8 i
+     {
+        float: right;
+        font-size: 27px;
+        margin: 15px;
+        margin-top: 10px;
+     }
+
+     .totalorders4
+     {
+     	 width:80%;
+     	 background-color:  #E7F4FB;
+     	  height: 300px;float: left;
+     	   margin-left: 5px;
+     	   margin-right: 2px; 
+     	 border-radius: 10px;"*/
+     }
+      .totalorders4 li
+     {
+        display: inline;
+        list-style-type: none;
+        margin-left: 25px;
+        font-size: 20px;
+    
+     }
+     .totalorders4 li:hover 
+     {
+        color: blue;
+        text-decoration: underline;
+     }
+
+
+
+      /*   9th Page: */
+      .vertical9
+    {
+        list-style-type: none;
+        height: 100%;
+        width: 18%;
+        float: left;
+        background-color: #E7F4FB;
+        font-family: cailibry;
+        border: 1px solid black;
+         z-index: 9999;
+        
+    } 
+    .vertical9 li
+    {
+       
+       padding: 8px;
+       margin-left: 30px;
+   }
+
+    .vertical9 li i
+    {
+    
+/*     font-size: 20px;*/
+     padding: 10px;
+     margin-left: -70px;
+
+    }
+    .vertical9 li:hover
+    {
+/*        background-color: gray;*/
+/*        border-radius: 20px;*/
+        color: blue;
+        width: 100%;
+    }
+
+    .info9
+    {  
+        width: 82%;
+        height: 50px;
+        background-color: #c2d6d6;
+        float: right;
+    }
+     .info9 i
+     {
+        float: right;
+        font-size: 27px;
+        margin: 15px;
+        margin-top: 10px;
+     }
+     .tickets2
+     {
+        height: 92.5% ;
+        width: 82%;
+        float: left;
+     }
+     .alltickets2
+     {
+        height: 100%;
+        width: 30%;
+        float: left;
+     }
+     .support2
+     {
+        height: 40%;
+        width: 67%;
+        background-color: #E7F4FB;
+        float: left;
+        border-radius: 20px;
+        margin-left: 10px;
+        margin-top:30px;
+     }
+
+     .raiseticket2
+     {
+        height: 40%;
+        width: 67%;
+        background-color: #E7F4FB;
+        float: left;
+        margin-left: 10px;
+        border-radius: 20px;
+        margin-top: 8px;
+     }
+
+
+
+/* 10th Page  */
+
+.vertical10
+    {
+        list-style-type: none;
+        height: 100%;
+        width: 18%;
+        float: left;
+        background-color: #E7F4FB;
+        font-family: cailibry;
+        border: 1px solid black;
+         z-index: 9999;
+        
+    } 
+    .vertical10 li
+    {
+       
+       padding: 8px;
+       margin-left: 30px;
+   }
+
+    .vertical10 li i
+    {
+    
+/*     font-size: 20px;*/
+     padding: 10px;
+     margin-left: -70px;
+
+    }
+    .vertical10 li:hover
+    {
+/*        background-color: gray;*/
+/*        border-radius: 20px;*/
+        color: blue;
+        width: 100%;
+    }
+
+    .info10
+    {  
+        width: 82%;
+        height: 50px;
+        background-color: #c2d6d6;
+        float: right;
+    }
+     .info10 i
+     {
+        float: right;
+        font-size: 27px;
+        margin: 15px;
+        margin-top: 10px;
+     }
+     .tickets3
+     {
+        height: 92.5% ;
+        width: 82%;
+        float: left;
+     }
+     .alltickets3
+     {
+        height: 100%;
+        width: 30%;
+        float: left;
+     }
+     
+     .raiseticket3
+     {
+        height: 70%;
+        width: 67%;
+        background-color: #E7F4FB;
+        float: left;
+        margin-left: 10px;
+        border-radius: 20px;
+        margin-top: 15px;
+     }
+
+      
